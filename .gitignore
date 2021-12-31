@@ -1,0 +1,9 @@
+test/test.xcodeproj/project.xcworkspace/xcshareddata
+test/test.xcodeproj/project.xcworkspace/xcuserdata
+test/test.xcodeproj/xcshareddata
+test/test.xcodeproj/xcuserdata
+*.d
+*.o
+*.gcda
+*.gcno
+test/test

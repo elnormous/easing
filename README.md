@@ -2,8 +2,8 @@
 
 The library contains the following easing functions with in, out, and in-out modes:
 
-* sine,
-* quad,
+* sine
+* quad
 * cubic
 * quart
 * quint
